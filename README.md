@@ -12,3 +12,5 @@ He wants the answer to following question:
 
 To Answer these questions, I first imported the sales dataset to MySQL database to perform data cleaning and exploratory data analysis.
 Then connected the MySQL database to Tableau to create interactive dashboards that answers the questions of the sales manager. 
+
+You can view the Tableau dashboard at https://public.tableau.com/app/profile/prakhar.jain6877/viz/SalesDataAnalysisInsights/Dashboard1
